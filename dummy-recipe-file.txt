@@ -1,0 +1,2 @@
+this is a dummy recipe file created for testing purposes
+Winter is coming!
